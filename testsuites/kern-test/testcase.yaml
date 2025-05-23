@@ -1,0 +1,18 @@
+common:
+  testsuite_name: KERNEL_APP 
+  tags: KERNEL
+  min_ram: 32
+
+tests:
+  kernel.UniProton_test_sem:
+    min_flash: 64
+  kernel.UniProton_test_rr_sched:
+    min_flash: 64
+  kernel.UniProton_test_priority:
+    min_flash: 64
+  kernel.UniProton_test_mmu:
+    min_flash: 64
+  kernel.UniProton_test_ir:
+    min_flash: 64
+  kernel.UniProton_test_spinlock:
+    min_flash: 64

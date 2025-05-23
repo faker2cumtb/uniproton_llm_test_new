@@ -1,0 +1,8 @@
+set(CMAKE_ASM_COMPILER_ID "ARMASM")
+add_library_ex(arm_fpu.c)
+# add_library_ex(arm_mpu.c)
+add_library_ex(arm_tcm.S)
+add_library_ex(arm_cache.S)
+add_library_ex(arm_tcm_c.c)
+add_library_ex(arm_start.S)
+add_library_ex(arm_arch.c)

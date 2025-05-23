@@ -1,0 +1,18 @@
+common:
+  testsuite_name: RHEALSTONE_APP 
+  tags: rhealstone
+
+tests:
+  rhealstone.deadlock-break:
+    min_flash: 64
+  rhealstone.interrupt-latency:
+    min_flash: 64
+  rhealstone.message-latency:
+    min_flash: 64
+  rhealstone.semaphore-shuffle:
+    min_flash: 64
+  rhealstone.task-preempt:
+    min_flash: 64
+  rhealstone.task-switch:
+    min_flash: 64
+    

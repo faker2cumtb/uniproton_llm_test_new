@@ -1,0 +1,8 @@
+common:
+  testsuite_name: FS_APP 
+  tags: fs
+
+tests:
+  fs.fs-test:
+    min_flash: 64
+    

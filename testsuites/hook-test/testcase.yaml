@@ -1,0 +1,7 @@
+common:
+  testsuite_name: HOOK_APP 
+  tags: hook
+
+tests:
+  hook.hook-test:
+    min_flash: 64

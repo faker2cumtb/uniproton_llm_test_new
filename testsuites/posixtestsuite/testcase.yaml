@@ -1,0 +1,18 @@
+common:
+  testsuite_name: POSIX_APP 
+  tags: posix
+  min_ram: 32
+
+tests:
+  posixtestsuite.UniProton_test_posix_time_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_thread_sem_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_thread_pthread_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_malloc_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_signal_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_rwflag_interface:
+    min_flash: 64

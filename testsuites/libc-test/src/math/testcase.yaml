@@ -1,0 +1,1198 @@
+common:
+  testsuite_name: MATH_APP 
+  tags: math
+
+tests:
+  math.UniProton_test_posix_math_acosf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_acoshf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_acoshl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_acosh_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_acosl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_acos_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinhf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinhl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinh_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asinl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asin_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asin_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asin_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asin_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_asin_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan2f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan2l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanhf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanhl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanh_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atanl_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_atan_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cbrtf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cbrtl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cbrt_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ceilf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ceill_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ceil_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_copysignf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_copysignl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_copysign_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_coshf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_coshl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_coshl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_coshl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_coshl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_coshl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosh_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosh_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosh_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosh_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosh_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part11_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part12_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part13_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part14_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part15_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part16_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part17_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part18_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cosl_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part11_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part12_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part13_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part14_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part15_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part16_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part17_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part18_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_cos_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_dremf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_drem_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_erfcf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_erfcl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_erfc_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_erff_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_erfl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_erf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp10f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp10l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp2f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp2l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expl_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expm1f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expm1l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_expm1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_exp_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fabsf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fabsl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fabs_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fdimf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fdiml_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fdim_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fenv_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_floorf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_floorl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_floor_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmaf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmal_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmal_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmal_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fma_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fma_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fma_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmaxf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmaxl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmax_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fminf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fminl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmin_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmodf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmodl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmodl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmodl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmod_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmod_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fmod_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_fpclassify_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_frexpf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_frexpl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_frexp_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_hypotf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_hypotl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_hypot_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ilogbf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ilogbl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ilogb_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_isless_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_j0f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_j0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_j1f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_j1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_jnf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_jn_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ldexpf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ldexpl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ldexp_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lgammaf_r_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lgammaf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lgammal_r_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lgammal_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lgamma_r_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lgamma_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_llrintf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_llrintl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_llrint_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_llroundf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_llroundl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_llround_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log10f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log10l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log1pf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log1pl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log1p_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log2f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log2l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logbf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logbl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logb_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_logl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_log_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lrintf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lrintl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lrint_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lroundf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lroundl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_lround_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_modff_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_modfl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_modf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nearbyintf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nearbyintl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nearbyint_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nextafterf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nextafterl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nextafter_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nexttowardf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nexttowardl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_nexttoward_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow10f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow10l_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powf_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powf_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powf_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powf_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part11_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part12_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part13_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part14_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part15_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part16_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part17_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part18_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_powl_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part11_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part12_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part13_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part14_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part15_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part16_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part17_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part18_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_pow_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_remainderf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_remainderl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_remainder_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_remquof_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_remquol_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_remquo_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_rintf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_rintl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_rint_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_roundf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_roundl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_round_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalbf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalblnf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalblnl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalbln_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalbnf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalbnl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalbn_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_scalb_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sincosf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sincosl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sincos_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinhf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinhl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinhl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinhl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinhl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinh_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinh_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinh_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinh_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part11_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part12_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part13_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part14_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part15_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part16_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sinl_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part11_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part12_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part13_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part14_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part15_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part16_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sin_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sqrtf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sqrtl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_sqrt_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanhf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanhl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanh_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tanl_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part10_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part2_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part3_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part4_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part5_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part6_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part7_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part8_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tan_part9_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tgammaf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tgammal_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_tgamma_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_truncf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_truncl_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_trunc_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_y0f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_y0_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_y1f_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_y1_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_ynf_test:
+    min_flash: 64
+
+  math.UniProton_test_posix_math_yn_test:
+    min_flash: 64

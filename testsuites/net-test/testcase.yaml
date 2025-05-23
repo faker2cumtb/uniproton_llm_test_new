@@ -1,0 +1,7 @@
+common:
+  testsuite_name: NET_APP 
+  tags: net
+
+tests:
+  net.net-test:
+    min_flash: 64

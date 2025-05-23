@@ -1,0 +1,13 @@
+common:
+  testsuite_name: PERFORMANCE_APP 
+  tags: performancetest
+
+tests:
+  performance.stress_hrtimer_test:
+    min_flash: 64
+  performance.nostress_hrtimer_test:
+    min_flash: 64
+  performance.release_mutex_time_test:
+    min_flash: 64
+  performance.task_switch_stress:
+    min_flash: 64

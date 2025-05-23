@@ -1,0 +1,2 @@
+repo: https://github.com/CANopenNode/CANopenNode
+commit: f96ffb2526b9c70a9b1a6dd5271e64ee553092e2

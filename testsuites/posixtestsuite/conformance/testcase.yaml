@@ -1,0 +1,34 @@
+common:
+  testsuite_name: EXIT_APP 
+  tags: exitapp
+  min_ram: 32
+
+tests:
+  exit.UniProton_test_posix_exit__Exit_1_1:
+    min_flash: 64
+  exit.UniProton_test_posix_exit__Exit_1_2:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_abort_1_1:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_abort_1_2:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_at_quick_exit_1_1:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_at_quick_exit_1_2:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_at_quick_exit_1_3:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_atexit_1_1:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_atexit_1_2:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_atexit_1_3:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_exit_1_1:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_exit_1_2:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_quick_exit_1_1:
+    min_flash: 64
+  exit.UniProton_test_posix_exit_quick_exit_1_2:
+    min_flash: 64

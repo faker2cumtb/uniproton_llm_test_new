@@ -1,0 +1,15 @@
+common:
+  testsuite_name: LIBC_POSIX_APP 
+  tags: posix
+
+tests:
+  posixtestsuite.UniProton_test_posix_stdlib_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_ipc_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_string_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_regex_interface:
+    min_flash: 64
+  posixtestsuite.UniProton_test_posix_prng_interface:
+    min_flash: 64

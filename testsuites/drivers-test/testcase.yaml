@@ -1,0 +1,15 @@
+common:
+  testsuite_name: DRIVER_APP 
+  tags: drivers
+
+tests:
+  drivers.gpio-test:
+    min_flash: 64
+  drivers.timer-test:
+    min_flash: 64
+  drivers.i2c-test:
+    min_flash: 64
+  drivers.smp-test:
+    min_flash: 64
+  drivers.localbus-test:
+    min_flash: 64
